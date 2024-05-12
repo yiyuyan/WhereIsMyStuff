@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.wims.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "wmis.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DeathScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
